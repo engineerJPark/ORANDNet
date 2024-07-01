@@ -1,5 +1,10 @@
 # Precision Matters: Precision-aware Ensemble for Weakly Supervised Semantic Segmentation (Accepted in AAAI EIW 2024)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/precision-matters-precision-aware-ensemble/weakly-supervised-semantic-segmentation-on-1)](https://paperswithcode.com/sota/weakly-supervised-semantic-segmentation-on-1?p=precision-matters-precision-aware-ensemble)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/precision-matters-precision-aware-ensemble/weakly-supervised-semantic-segmentation-on)](https://paperswithcode.com/sota/weakly-supervised-semantic-segmentation-on?p=precision-matters-precision-aware-ensemble)
+
+
 ## Abstract
 
 ![fig1](./fig1.png)
