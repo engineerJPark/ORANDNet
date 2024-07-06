@@ -4,6 +4,8 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/precision-matters-precision-aware-ensemble/weakly-supervised-semantic-segmentation-on)](https://paperswithcode.com/sota/weakly-supervised-semantic-segmentation-on?p=precision-matters-precision-aware-ensemble)
 
+[![PWC](https://img.shields.io/badge/arXiv-2406.19638-red?logo=arXiv)](https://arxiv.org/abs/2406.19638)
+
 
 ## Abstract
 
